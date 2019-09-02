@@ -1,0 +1,41 @@
+ERROR 2019/09/01 23:42:28 utils.go:100: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'returning id, uuid, created_at' at line 1 Cannot create user
+ERROR 2019/09/01 23:42:35 utils.go:100: Error 1054: Unknown column '$1' in 'where clause' Cannot find user
+ERROR 2019/09/01 23:42:42 utils.go:100: Error 1054: Unknown column '$1' in 'where clause' Cannot find user
+ERROR 2019/09/01 23:44:55 utils.go:100: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'returning id, uuid, created_at' at line 1 Cannot create user
+ERROR 2019/09/01 23:46:19 utils.go:100: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'returning id, uuid, created_at' at line 1 Cannot create user
+ERROR 2019/09/01 23:46:25 utils.go:100: Error 1054: Unknown column '$1' in 'where clause' Cannot find user
+ERROR 2019/09/01 23:49:27 utils.go:100: Error 1054: Unknown column '$1' in 'field list' Cannot create user
+ERROR 2019/09/02 09:55:57 utils.go:100: sql: no rows in result set Cannot create user
+ERROR 2019/09/02 09:57:01 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:57:05 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:57:05 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 09:57:18 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:57:18 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 09:58:19 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:58:19 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 09:58:51 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:58:51 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 09:59:27 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 09:59:27 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 10:03:27 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 10:03:27 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 10:05:47 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 10:05:47 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 10:26:53 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 10:26:53 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 10:29:49 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 10:29:49 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:05:22 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:05:22 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:05:26 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:05:26 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:05:44 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:05:44 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:06:34 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:06:35 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:06:38 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:06:38 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 11:07:24 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 11:07:24 utils.go:100: sql: no rows in result set Cannot create session
+ERROR 2019/09/02 14:29:04 utils.go:100: sql: Scan error on column index 5, name "created_at": unsupported Scan, storing driver.Value type []uint8 into type *time.Time Cannot find user
+ERROR 2019/09/02 14:29:04 utils.go:100: sql: no rows in result set Cannot create session
